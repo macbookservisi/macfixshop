@@ -1,0 +1,101 @@
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Mac cihazlarınız için tamir ve yedek parça rehberleri. MacBook ve iMac cihazlarınız için en güncel makaleler ve teknik ipuçları.">
+    <meta name="keywords" content="MacBook tamir, iMac yedek parça, Mac tamir rehberi, Mac teknik destek, Mac yedek parça rehberi">
+    <meta name="author" content="Felix Bilişim">
+    <title>Blog - Mac Yedek Parça ve Felix Bilişim</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        a {
+            color: black; /* Bağlantı rengi siyah */
+            text-decoration: none; /* Altı çizgiyi kaldır */
+        }
+        a:hover {
+            text-decoration: underline; /* Üzerine gelindiğinde altı çizgi ekle */
+        }
+    </style>
+</head>
+<body>
+    <!-- Üst Menü -->
+<header>
+    <div class="logo">
+        <a href="index.php">
+            <img src="logo.png" alt="Felix Bilişim Logo">
+        </a>
+    </div>
+    <nav>
+        <ul>
+            <li><a href="https://macyedekparca.com/">Ana Sayfa</a></li>
+            <li><a href="https://macyedekparca.com/hizmetler.html">Hizmetler</a></li>
+            <li><a href="https://macyedekparca.com/yedekparca.html">Yedek Parçalar</a></li>
+            <li><a href="https://macyedekparca.com/blog.html">Blog</a></li>
+            <li><a href="https://macyedekparca.com/iletisim.html">İletişim</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+    <!-- Blog İçerik -->
+    <section class="blog-content">
+        <h1>Mac Yedek Parça ve Tamir Blogu</h1>
+        <p>MacBook ve iMac cihazlarınız için en güncel tamir rehberleri, yedek parça incelemeleri ve teknik ipuçlarına buradan ulaşabilirsiniz. Her bir yazı, cihazlarınızı en iyi şekilde nasıl koruyabileceğiniz ve sorunları nasıl giderebileceğiniz hakkında detaylı bilgi sunar.</p>
+
+        <!-- Blog Listesi -->
+        <div class="blog-list">
+            <div class="blog-item">
+                <h2><a href="https://macyedekparca.com/macbook-anakart-sorunlari.html">MacBook Tamir Rehberi: Anakart Sorunları Nasıl Giderilir?</a></h2>
+                <p>Anakart sorunları MacBook'larda sıkça karşılaşılan bir durumdur. Bu makalede, anakart arızalarının belirtileri, olası çözümler ve anakart değişimi hakkında bilgi bulabilirsiniz.</p>
+            </div>
+
+            <div class="blog-item">
+                <h2><a href="https://macyedekparca.com/imac-ssd-yukseltme.html">iMac SSD Yükseltme: Hızlı ve Güvenli Yöntemler</a></h2>
+                <p>iMac'inizdeki performansı artırmak için SSD yükseltme işlemi nasıl yapılır? Adım adım rehber ve dikkat edilmesi gereken noktalar burada.</p>
+            </div>
+
+            <div class="blog-item">
+                <h2><a href="https://macyedekparca.com/macbook-batarya-degisimi.html">MacBook Batarya Değişimi Nasıl Yapılır?</a></h2>
+                <p>MacBook'unuzun bataryası eski performansını kaybettiyse, bu rehber ile batarya değişimini nasıl yapabileceğinizi öğrenin.</p>
+            </div>
+
+            <div class="blog-item">
+                <h2><a href="https://macyedekparca.com/macbook-klavye-sorunlari.html">MacBook Klavye Sorunları ve Çözümleri</a></h2>
+                <p>MacBook klavyeniz çalışmıyor mu? Bu yazıda, MacBook klavye sorunlarının olası nedenlerini ve çözümlerini bulabilirsiniz.</p>
+            </div>
+
+            <div class="blog-item">
+                <h2><a href="https://macyedekparca.com/imac-ekran-degisimi.html">iMac Ekran Değişimi ve Renk Kalibrasyonu</a></h2>
+                <p>Kırık veya hasarlı iMac ekranınızı nasıl değiştirebileceğinizi ve ekran renk kalibrasyonunu nasıl yapacağınızı adım adım öğrenin.</p>
+            </div>
+
+            <div class="blog-item">
+                <h2><a href="https://macyedekparca.com/macbook-ram-yukseltme.html">MacBook RAM Yükseltme Rehberi</a></h2>
+                <p>MacBook’unuzun performansını artırmak için RAM yükseltmesi yapabilirsiniz. Hangi RAM türünü tercih etmelisiniz ve yükseltme işlemi nasıl yapılır? Detaylar makalemizde.</p>
+            </div>
+
+            <div class="blog-item">
+                <h2><a href="https://macyedekparca.com/mac-mini-parca-degistirme.html">Mac Mini Parça Değiştirme Rehberi</a></h2>
+                <p>Mac Mini'nizde parça değişimi yaparken nelere dikkat etmelisiniz? Adım adım rehber ve yedek parça önerileri bu yazıda.</p>
+            </div>
+
+            <div class="blog-item">
+                <h2><a href="https://macyedekparca.com/mac-performans-artirma.html">Mac Cihazlarınızın Performansını Artırma İpuçları</a></h2>
+                <p>MacBook ve iMac cihazlarınızın performansını artırmak için uygulayabileceğiniz yöntemler ve bakım ipuçları.</p>
+            </div>
+        </div>
+
+    </section>
+     <!-- WhatsApp Sohbet Butonu -->
+<a href="https://wa.me/905446573992" target="_blank" style="position: fixed; bottom: 20px; right: 20px; z-index: 100; text-decoration: none;">
+    <img src="https://macyedekparca.com/what.png" alt="WhatsApp" style="width: 60px; height: 60px; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
+</a>
+
+<!-- Telefon Butonu -->
+<a href="tel:+905446573992" style="position: fixed; bottom: 100px; right: 20px; z-index: 100; text-decoration: none;">
+    <img src="https://macyedekparca.com/tel.png" alt="Telefon" style="width: 60px; height: 60px; border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
+</a>
+</body>
+</html>
